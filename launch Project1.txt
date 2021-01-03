@@ -1,0 +1,4 @@
+cd C:\Udacity_Data_Scientist\Project1\
+jupyter notebook
+
+https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711
