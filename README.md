@@ -15,6 +15,7 @@ The analysis of these data was implemented in Python by means of a Jupyter Noteb
   * Collections
   
 ## Main conclusions:
+The main results of this analysis is available in [this blog post](https://daniyamashita.medium.com/how-to-integrate-into-the-fast-digital-transformation-6f4df8856be1) at Medium.
 From this analysis, it was constated that Python has become an important type of programming language, being increasiangly more popular and well-paied.
 
 Furthermore, it was analysed how to start learning it. Based on the StakeOverflow survey of 2017, it was analysed the recommendation of participants to be proficient in software development. It was concluded that attending online courses and practicing exercises of a book are the most recommended methods to start programming.
