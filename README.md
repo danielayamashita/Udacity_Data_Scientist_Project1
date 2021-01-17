@@ -6,7 +6,7 @@ This GitHub project contains all piece of code used to analyse the StackOverflow
   * Among the programming language most used in the last years, which one is the best paied?
   * What is the average age of people who program these type of languages and what do they recommend to become professional?
   
-The dataset used for this analysis is csv files that must be saved in the folder './Database'. Due to limitations in the space of GitHub repository, the dataset is available in [this link](https://review.udacity.com/#!/rubrics/1507/view) 
+The dataset used for this analysis is csv files that must be saved in the folder './Database'. Due to limitations in the space of GitHub repository, the dataset is available in [this link](https://insights.stackoverflow.com/survey) 
 
 The analysis of these data was implemented in Python by means of a Jupyter Notebook named 'Project1.ipynb'. The libraries used in this project are:
   * Numpy
